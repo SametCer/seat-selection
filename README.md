@@ -16,7 +16,7 @@ Projeyi klonladıktan sonra bağımlılıkları yükleyin:
 
 ```bash
 git clone https://github.com/SametCer/seat-selection.git
-cd proje-adi
+cd seat-selection
 npm install
 # veya yarn install
 ```
